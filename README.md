@@ -24,14 +24,12 @@
 ---
 
 ### 🌎 Portfolio Links
-- 🔗 [FragmentZero Live Website](https://fragment-zero-project.netlify.app)
-- 🎨 [Behance Portfolio](https://www.behance.net/jeroidjero)
-- ⚔️ [ArtStation](https://www.artstation.com/draugrprime)
+- 🔗 [Linktree](https://fragment-zero-project.netlify.app/links)
 
 ---
 
 ### 🛠 Tools & Skills
-HTML • CSS • JavaScript • GitHub Desktop • Visual Studio Code • AI Storyboarding • Figma • Photoshop • After Effects
+HTML • CSS • JavaScript • GitHub Desktop • Visual Studio Code • AI • Figma • Photoshop • After Effects • Illustrator
 
 ---
 
